@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetRec</string>
+    <string name="channel_recording_name">Grabación en curso</string>
+    <string name="channel_recording_desc">Notificación continua mientras se graba la reunión</string>
+</resources>
+
